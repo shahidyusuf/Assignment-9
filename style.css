@@ -74,10 +74,107 @@
 .mainone {
     align-items: center;
 }
-
-
-
-
+.text {
+    margin-top: -63px;
+}
+.all {
+    gap: 30px;
+    padding-top: 50px;
+    padding-left: 111px;
+    position: relative;
+    display: flex;
+}
+.all .text1 {
+    position: absolute;
+    left: 19%;
+    bottom: -17%;
+    font-size: 20px;
+}
+.all .text2 {
+    position: absolute;
+    left: 27%;
+    bottom: -17%;
+    font-size: 20px;
+}
+.all .text3 {
+    position: absolute;
+    left: 33%;
+    bottom: -17%;
+    font-size: 20px;
+}
+.all .text4 {
+    position: absolute;
+    left: 41%;
+    bottom: -17%;
+    font-size: 20px;
+}
+.all .text5 {
+    position: absolute;
+    left: 50%;
+    bottom: -17%;
+    font-size: 20px;
+}
+.all .text6 {
+    position: absolute;
+    left: 58%;
+    bottom: -17%;
+    font-size: 20px;
+}
+.all .text7 {
+    position: absolute;
+    left: 62%;
+    bottom: -17%;
+    font-size: 20px;
+}
+.all .text8 {
+    position: absolute;
+    left: 74%;
+    bottom: -17%;
+    font-size: 20px;
+}
+.all .text9 {
+    position: absolute;
+    left: 82%;
+    bottom: -17%;
+    font-size: 20px;
+}
+.allcatagories {
+    gap: 30px;
+    padding-top: 50px;
+    padding-left: 310px;
+    position: relative;
+    display: flex;
+}
+.allcatagories .text10 {
+    position: absolute;
+    left: 19%;
+    bottom: -17%;
+    font-size: 20px;
+} 
+.allcatagories .text11 {
+    position: absolute;
+    left: 27%;
+    bottom: -17%;
+    font-size: 20px;
+} 
+.allcatagories .text12 {
+    position: absolute;
+    left: 34%;
+    bottom: -17%;
+    font-size: 20px;
+} 
+.allcatagories .text13 {
+    position: absolute;
+    left: 41%;
+    bottom: -17%;
+    font-size: 20px;
+} 
+.allcatagories .text14 {
+    position: absolute;
+    left: 51%;
+    bottom: -17%;
+    font-size: 20px;
+} 
 
 
 /* @media only screen and (max-width:480px) {
