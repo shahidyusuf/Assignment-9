@@ -75,54 +75,55 @@
     align-items: center;
 }
 .text {
-    margin-top: -63px;
+    padding-left: 263px;
+    padding-top: 17px;
 }
 .all {
-    gap: 30px;
-    padding-top: 50px;
-    padding-left: 111px;
+    gap: 36px;
+    padding-top: 10px;
+    padding-left: 263px;
     position: relative;
     display: flex;
 }
 .all .text1 {
     position: absolute;
-    left: 19%;
+    left: 17%;
     bottom: -17%;
     font-size: 20px;
 }
 .all .text2 {
     position: absolute;
-    left: 27%;
+    left: 25%;
     bottom: -17%;
     font-size: 20px;
 }
 .all .text3 {
     position: absolute;
-    left: 33%;
+    left: 32%;
     bottom: -17%;
     font-size: 20px;
 }
 .all .text4 {
     position: absolute;
-    left: 41%;
+    left: 40%;
     bottom: -17%;
     font-size: 20px;
 }
 .all .text5 {
     position: absolute;
-    left: 50%;
+    left: 49%;
     bottom: -17%;
     font-size: 20px;
 }
 .all .text6 {
     position: absolute;
-    left: 58%;
+    left: 57%;
     bottom: -17%;
     font-size: 20px;
 }
 .all .text7 {
     position: absolute;
-    left: 62%;
+    left: 61%;
     bottom: -17%;
     font-size: 20px;
 }
@@ -139,43 +140,82 @@
     font-size: 20px;
 }
 .allcatagories {
-    gap: 30px;
+    gap: 36px;
     padding-top: 50px;
-    padding-left: 310px;
+    padding-left: 263px;
     position: relative;
     display: flex;
 }
 .allcatagories .text10 {
     position: absolute;
-    left: 19%;
+    left: 16%;
     bottom: -17%;
     font-size: 20px;
 } 
 .allcatagories .text11 {
     position: absolute;
-    left: 27%;
+    left: 24%;
     bottom: -17%;
     font-size: 20px;
 } 
 .allcatagories .text12 {
     position: absolute;
-    left: 34%;
+    left: 33%;
     bottom: -17%;
     font-size: 20px;
 } 
 .allcatagories .text13 {
     position: absolute;
-    left: 41%;
+    left: 40%;
     bottom: -17%;
     font-size: 20px;
 } 
 .allcatagories .text14 {
     position: absolute;
-    left: 51%;
+    left: 50%;
     bottom: -17%;
     font-size: 20px;
 } 
-
+.mp {
+    padding-left: 263px;
+    padding-top: 70px;
+}
+.cardone {
+    display: flex;
+    gap: 30px;
+    padding-top: 10px;
+    padding-left: 263px;
+    /* height: 100px; */
+    /* width: 100px; */
+}
+.cardone img {
+    height: 300px;
+    width: 287px;
+}
+.cardtwo {
+    display: flex;
+    gap: 30px;
+    padding-top: 10px;
+    padding-left: 263px;
+}
+.cars {
+    padding-left: 263px;
+    padding-top: 30px;
+}
+.cardtwo img {
+    height: 300px;
+    width: 287px;
+}
+.footer {
+    margin-top: 12px;
+    padding-top: 10px;
+    display: flex;
+    padding-left: 263px;
+    /* gap: 30px; */
+    border: 0px solid gray;
+    background: lightgray;
+    justify-content: space-around;
+}
 
 /* @media only screen and (max-width:480px) {
     body {
